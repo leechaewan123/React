@@ -1,0 +1,48 @@
+.Home {
+  text-align: center;
+}
+
+.button1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+  }
+
+  .button2{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+  }
+
+  .button3{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+  }
+
+
+  .App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .header {
+    height: 100px;
+    width: 100px;
+    color:red;
+  }
